@@ -1,6 +1,6 @@
 ### Hi there! My name is Joel 👋
 
-<!--
+
 
 I'm a developer who's passionate about crafting web applications with a focus on React.
 
@@ -29,4 +29,3 @@ I'm a developer who's passionate about crafting web applications with a focus on
 
 📬 Feel free to reach out for collaboration, discussions. 😄
 
--->
