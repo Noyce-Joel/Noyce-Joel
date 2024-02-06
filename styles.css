@@ -4,9 +4,9 @@
   }
   
   .icon1 {
-    animation: fadeIn 0.5s ease-in-out;
+    animation: fadeIn 2s ease-in-out;
   }
 
   .icon2 {
-    animation: fadeIn 1s ease-in-out;
+    animation: fadeIn 4s ease-in-out;
   }
