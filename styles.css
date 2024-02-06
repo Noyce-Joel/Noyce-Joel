@@ -1,0 +1,12 @@
+@keyframes fadeIn {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+  }
+  
+  .icon1 {
+    animation: fadeIn 0.5s ease-in-out;
+  }
+
+  .icon2 {
+    animation: fadeIn 1s ease-in-out;
+  }
