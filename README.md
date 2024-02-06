@@ -23,5 +23,4 @@ I'm a passionate, autodidactic software developer who's in love with React ⚛
 <img alt='js-icon' height='50' width='50' src='/public/vite.webp'/> 
 <img alt='js-icon' height='50' width='50' src='/public/vs.webp'/>  
 
-
 💡 Constantly learning and adapting; motivated to impress on the digital world; and super keen to collaborate 👨‍💻
