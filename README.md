@@ -1,6 +1,6 @@
 ## Hi! My name is Joel 👋
 
-I'm a passionate, autodidactic software developer who's in love with React ⚛
+I'm a passionate software developer looking to kick start my career in tech ⚛
   
 
 🛠 Tools
