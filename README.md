@@ -10,6 +10,6 @@ I'm a passionate, autodidactic software developer who's in love with React ⚛
 <img alt='js-icon' height='50' width='50' src='/public/nodejs.webp'/>  <img alt='js-icon' height='50' width='50' src='/public/ex.webp'/>  <img alt='js-icon' height='50' width='50' src='/public/p5.png'/>  <img alt='js-icon' height='50' width='50' src='/public/vite.webp'/>  <img alt='js-icon' height='50' width='50' src='/public/vs.webp'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀
   
   
-💡 Constantly learning and adapting 💡  
-📈 Motivated to impress on the digital world 📈  
+💡 Always learning and adapting 💡  
+ 
 
